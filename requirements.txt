@@ -1,0 +1,7 @@
+Python 3.x
+Flask
+BeautifulSoup4 (for web scraping)
+Requests (for making HTTP requests)
+scikit-learn (for KNN)
+NLTK or spaCy (for NLP tasks)
+FAISS (for similarity search)
